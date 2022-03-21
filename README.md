@@ -2,7 +2,6 @@
 <h2><strong>📗 딥러닝 개인 공부 (Keras 사용X)</strong></h2>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 </br>
-
 🔸<strong>공부 목적 : </strong>  
 딥러닝에 대해 아무것도 모르던 시절(2021년 여름)...    
 딥러닝 까막눈 탈출을 위해 동네 도서관에서 책을 빌려서 봤음.   
@@ -10,7 +9,7 @@
 </br>
 
 🔸<strong>왜 아직 미결 상태인가? : </strong>    
-책 연체가 두려워서 반납했더니 다음 날에 누군가 빌려감.
+책 연체가 두려워서 반납했더니 다음 날에 누군가 빌려감.   
 언제 함 날 잡고 볼 예정임.   
 빨리 코로나 끝나서 마스크 없는 상태로 아메리카노와 함께 도서관에서 독서 조지고 싶다.
 </br>
