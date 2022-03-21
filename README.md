@@ -1,5 +1,5 @@
 # Deep_Learning_practice
-<h2><strong>📗 딥러닝 개인 공부(Keras 사용X)</strong></h2>
+<h2><strong>📗 딥러닝 개인 공부 (Keras 사용X)</strong></h2>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 </br>
 
